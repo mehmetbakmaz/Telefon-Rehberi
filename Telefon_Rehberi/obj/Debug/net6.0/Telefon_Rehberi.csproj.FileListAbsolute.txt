@@ -1,0 +1,15 @@
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/bin/Debug/net6.0/Telefon_Rehberi
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/bin/Debug/net6.0/Telefon_Rehberi.deps.json
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/bin/Debug/net6.0/Telefon_Rehberi.runtimeconfig.json
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/bin/Debug/net6.0/Telefon_Rehberi.dll
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/bin/Debug/net6.0/Telefon_Rehberi.pdb
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/Telefon_Rehberi.csproj.AssemblyReference.cache
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/Telefon_Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/Telefon_Rehberi.AssemblyInfoInputs.cache
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/Telefon_Rehberi.AssemblyInfo.cs
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/Telefon_Rehberi.csproj.CoreCompileInputs.cache
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/Telefon_Rehberi.dll
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/refint/Telefon_Rehberi.dll
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/Telefon_Rehberi.pdb
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/Telefon_Rehberi.genruntimeconfig.cache
+/Users/mehmet/Projects/Patika_odev/Telefon_Rehberi/Telefon_Rehberi/obj/Debug/net6.0/ref/Telefon_Rehberi.dll
